@@ -2,7 +2,7 @@
 
 
 
-![](graph.png)
+![](graph.PNG)
 
 
 
